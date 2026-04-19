@@ -1,2 +1,2 @@
-# bolgImage
-save bolg images
+# blogImage
+save blog images
